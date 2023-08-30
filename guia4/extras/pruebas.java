@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class pruebas{
     public static void main(String[] args) {
+        System.out.println("Pruebitaaa");
         Scanner read = new Scanner(System.in);
         char[][] sopa = new char[20][20];
         Random random = new Random();
